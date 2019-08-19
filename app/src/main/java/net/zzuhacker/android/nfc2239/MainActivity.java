@@ -1,4 +1,4 @@
-package net.zzuhacker.android.nfc2369;
+package net.zzuhacker.android.nfc2239;
 
 import android.app.AlertDialog;
 import android.app.PendingIntent;
